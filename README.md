@@ -1,11 +1,11 @@
-# custom elements demo
+# custom elements
 
 > Advanced example. Works with [bpmn-js](https://github.com/bpmn-io/bpmn-js) version v0.15.
 
 This example shows how to add support for custom shapes and connections to [bpmn-js](https://github.com/bpmn-io/bpmn-js).
 
 
-## About our project
+## About
 
 This example creates a custom BPMN modeler that can display and add custom shapes and connections to BPMN 2.0 diagrams.
 
