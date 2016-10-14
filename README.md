@@ -1,4 +1,4 @@
-# custom elements by hmedna
+# custom elements by aicha bakki
 
 > Advanced example. Works with [bpmn-js](https://github.com/bpmn-io/bpmn-js) version v0.15.
 
